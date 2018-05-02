@@ -9,3 +9,14 @@ E:\dockerDemo\essential_for_Docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netc
 E:\dockerDemo\essential_for_Docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.AssemblyInfo.cs
 E:\dockerDemo\essential_for_Docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.dll
 E:\dockerDemo\essential_for_Docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.pdb
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.deps.json
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.runtimeconfig.json
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.runtimeconfig.dev.json
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.dll
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.pdb
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.csprojResolveAssemblyReference.cache
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.csproj.CoreCompileInputs.cache
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.AssemblyInfoInputs.cache
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.AssemblyInfo.cs
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.dll
+E:\dockerDemo\essential_for_Docker\essential_for_docker\chapter4\ExampleApp\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.pdb

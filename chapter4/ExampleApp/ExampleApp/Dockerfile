@@ -1,5 +1,11 @@
-﻿FROM microsoft/aspnetcore:2.0.0
+﻿FROM microsoft/aspnetcore
+
+MAINTAINER caijingjin
+
 COPY dist  /app
+
 WORKDIR  /app
+
 EXPOSE 80/tcp
+
 ENTRYPOINT ["dotnet","ExampleApp.dll"]
